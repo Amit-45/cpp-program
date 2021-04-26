@@ -1,8 +1,8 @@
 //String problem solution(hacker earth )
-//Sample input:-		3							Sample output:-
+//Sample input:-		                3						Sample output:-
 // 						omahgoTuRuLob							  ugly string
 // 						OmAhgotUrulobEI							  lovely string
-//					    aeKORONAoiBATCHu						  lovely string
+//					        aeKORONAoiBATCHu						  lovely string
 #include <bits/stdc++.h>
 using namespace std;
 int main()
